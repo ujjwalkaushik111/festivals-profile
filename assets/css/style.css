@@ -403,10 +403,6 @@
     margin-bottom: 20px;
 }
 
-/* .padding-top {
-    padding-top: 40px;
-} */
-
 .col-3 {
     width: 25%;
     padding-left: 12px;
@@ -421,9 +417,6 @@
     padding-left: 0px !important;
 }
 
-/* .pt-sm {
-    padding-top: 15px;
-} */
 
 .col-4 {
     width: 33.3%;
@@ -453,6 +446,10 @@
     color: rgba(255, 255, 255, 1);
     font-family: 'poppins';
 
+}
+
+.position-fixed {
+    position: fixed;
 }
 
 .w-100 {
