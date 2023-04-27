@@ -324,6 +324,17 @@
     margin-top: 10px;
 }
 
+.position-absolute {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.position-realtive {
+    position: relative;
+}
+
 .p-3 {
     font-family: 'Poppins';
     font-style: normal;
@@ -576,6 +587,10 @@ input[type="checkbox"] {
     .p-l {
         padding-bottom: 15px;
 
+    }
+
+    .padding_lg_left {
+        padding-left: 20px;
     }
 }
 
