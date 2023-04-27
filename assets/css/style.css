@@ -593,6 +593,10 @@ input[type="checkbox"] {
     .margin_lg_top {
         margin-top: 48px;
     }
+
+    .margin-top-2 {
+        margin-top: 10px;
+    }
 }
 
 @media (max-width:780px) {
