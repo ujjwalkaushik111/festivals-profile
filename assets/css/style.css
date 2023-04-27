@@ -589,6 +589,10 @@ input[type="checkbox"] {
     .padding_lg_left {
         padding-left: 20px;
     }
+
+    .margin_lg_top {
+        margin-top: 48px;
+    }
 }
 
 @media (max-width:780px) {
