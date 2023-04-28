@@ -70,10 +70,9 @@
     color: #FFFFFF;
     background: #2C49FE;
     border-radius: 23px;
-    /* width: 62px;
-    height: 24px; */
     padding: 11px 28px;
     border: none;
+    cursor: pointer;
 }
 
 .NAME {
@@ -86,7 +85,7 @@
 }
 
 .p-l {
-    padding-left: 25px;
+    padding-left: 45px;
 }
 
 .p-l-2 {
@@ -150,6 +149,7 @@
     font-size: 16px;
     line-height: 150%;
     color: #000000;
+    cursor: pointer;
 }
 
 .button3 {
@@ -164,6 +164,7 @@
     font-size: 16px;
     line-height: 150%;
     color: #FFFFFF;
+    cursor: pointer;
 
 }
 
@@ -312,6 +313,7 @@
     padding: 13px 28px;
     border: none;
     margin-right: 10px;
+    cursor: pointer;
 }
 
 .M-l {
@@ -619,9 +621,14 @@ input[type="checkbox"] {
     .flex-column-lg-reverse {
         flex-direction: column-reverse;
     }
+
+    .d-flex-center-lg {
+        display: flex;
+        justify-content: center;
+    }
 }
 
-@media (max-width:780px) {
+@media (max-width:795px) {
 
 
 
